@@ -2,7 +2,7 @@
 
   - 📍 I'm based in Madrid, Spain.
   - 🌱 I’m currently learning Java Backend at Agrupo Sistemas.
-  - 📫 You can reach me at ricardocasia.dev@gmail.com .
+  - 📫 You can reach me at ricardocasia.dev@gmail.com.
 
 
 ### Languages and Tools:
