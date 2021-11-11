@@ -1,7 +1,7 @@
 ### Hi, I'm Ricardo 👋
 
   - 📍 I'm based in Madrid, Spain.
-  - 🌱 I’m currently learning Java Backend at Agrupo Sistemas.
+  - 🌱 I’m currently learning Java Backend at Antartyca Group.
   - 📫 You can reach me at ricardocasia.dev@gmail.com.
 
 
