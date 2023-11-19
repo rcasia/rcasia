@@ -3,7 +3,7 @@
 
 👋 Hey, I'm Rico, a software engineer immersed in Java and microservices. My focus? Crafting resilient systems through reactive programming.
 
-🚀 When not at work, I'm in neovim plugin territory—check out neotest-java and neotest-bash. They're my passion projects, elevating testing in the developer's realm.
+🚀 When not at work, I'm in neovim plugin territory—check out [neotest-java](https://github.com/rcasia/neotest-java) and [neotest-bash](https://github.com/rcasia/neotest-bash).
 
 🌱 Currently, I'm navigating Rust, absorbing best practices, and reading some articles.
 
