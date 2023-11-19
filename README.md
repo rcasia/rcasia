@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/rcasia/rcasia/master/profile-summary-card-output/ocean_dark/3-stats.svg)](https://app.opensauced.pizza/user/rcasia?tab=contributions)¡
+[![](https://raw.githubusercontent.com/rcasia/rcasia/master/profile-summary-card-output/ocean_dark/3-stats.svg)](https://app.opensauced.pizza/user/rcasia?tab=contributions)
 
 
 👋 Hey, I'm Rico, a software engineer immersed in Java and microservices. My focus? Crafting resilient systems through reactive programming.
