@@ -10,8 +10,8 @@
   🖤 neovim enjoyer <br>
   🛠️ building systems that don’t fall apart at 2AM <br>
 </p>
-
+<br>
 <h1 align="center"></h1>
-<p align="right">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rcasia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
