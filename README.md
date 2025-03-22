@@ -3,7 +3,7 @@
 <h3 align="center"> 🪐 I'm Ricardo Casía</h3>
 
 
-<p align="center">
+<p align="left">
   💻 software engineer @ Thoughtworks <br>
   🎹 pianist and an arts lover <br>
   📚 ex-philosophy/law student with a thing for ancient languages <br>
