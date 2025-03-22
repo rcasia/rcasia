@@ -12,6 +12,6 @@
 </p>
 
 <h1 align="center"></h1>
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=rcasia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
