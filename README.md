@@ -2,6 +2,7 @@
 
 <h3 align="center"> 🪐 I'm Ricardo Casía</h3>
 
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=rcasia&show_icons=true&theme=tokyonight" alt="GitHub Stats" /></p>
 
 <p align="left">
   💻 software engineer @ Thoughtworks <br>
@@ -10,8 +11,6 @@
   🖤 neovim enjoyer <br>
   🛠️ building systems that don’t fall apart at 2AM <br>
 </p>
-<br>
-<h1 align="center"></h1>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rcasia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+
+
+  
