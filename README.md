@@ -6,7 +6,7 @@
 
 <p align="left">
   💻 software engineer @ Thoughtworks <br>
-  🎹 pianist and an arts lover <br>
+  🎹 pianist and arts lover <br>
   📚 ex-philosophy and laws student with a thing for Ancient Latin <br>
   🖤 neovim enjoyer <br>
   🛠️ building systems that don’t fall apart at 2AM <br>
