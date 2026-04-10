@@ -1,4 +1,4 @@
-<h1 align="center">welcome to my github 🌍</h1>
+<h1 align="center">welcome 🌍</h1>
 
 <h3 align="center"> 🪐 I'm Ricardo Casía</h3>
 
